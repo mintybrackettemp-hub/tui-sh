@@ -44,9 +44,7 @@ Finnaly, run the script:
 
 Obviously , you want a guide to use the app
 
-Okay , once you're in the app , you're gonna see the following:
-
-[img](!https://github.com/mintybrackettemp-hub/tui-sh/blob/main/Screenshot%20from%202025-12-16%2015-51-54.png)
+Okay , once you're in the app , you're gonna see some sections , `Aliases` and `Actions`
 
 Now i'm gonna explain how this works in-depth later , for now , make sure you are seeing this at first launch
 
